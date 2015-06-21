@@ -4,7 +4,7 @@
     Accep-Language header, an array of supported locales and a default locale to
     determine the most suitable locale; returned as a IETF language tag.
 
-    Copyright © 2014, 2015 Aram Nap <xyphex.aram@gmail.com>
+    Copyright © 2014, 2015 Aram Nap
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Lesser General Public License as published by
